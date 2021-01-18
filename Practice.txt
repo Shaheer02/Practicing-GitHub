@@ -2,3 +2,4 @@ Navigating Git and Git-Hub
 So far, it makes some sense
 Making some more changes. I just learned how to access my files.
 I am going to figure out how to let someone what I changed.
+Just making some changes here in the main branch.
