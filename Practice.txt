@@ -1,2 +1,3 @@
 Navigating Git and Git-Hub
 So far, it makes some sense
+Making some more changes. I just learned how to access my files.
